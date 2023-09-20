@@ -23,4 +23,4 @@ The following data on bank clients were available:
 - **purpose** — loan purpose
 
 ## Technology Stack
-Python, Pandas, Matplotlib, Numpy
+Python, Pandas, Matplotlib, Seaborn
