@@ -14,13 +14,13 @@ The following data on bank clients were available:
 - **dob_years** — client age in years
 - **education** — client education level
 - **education_id** — education level identifier
-- **family_status** — семейное положение
-family_status_id — идентификатор семейного положения
-gender — пол клиента
-income_type — тип занятости
-debt — имел ли задолженность по возврату кредитов
-total_income — ежемесячный доход
-purpose — цель получения кредита
+- **family_status** — marital status
+- **family_status_id** — marital status identifier
+- **gender** — client gender
+- **income_type** — employment type
+- **debt** — whether there were any outstanding payments
+- **total_income** — monthly income
+- **purpose** — loan purpose
 
 ## Technology Stack
-Python, Pandas, Matplotlib
+Python, Pandas, Matplotlib, Numpy
